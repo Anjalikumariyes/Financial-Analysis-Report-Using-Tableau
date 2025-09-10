@@ -1,13 +1,13 @@
 # Financial Analysis Report With Unified Mentor
 This project showcases a comprehensive overview of financial metrics, enabling stakeholders to quickly assess organizational health, analyze drivers of performance, and identify actionable insights across regions, segments, and products.
 
-## Overview
+### Overview
 A Tableau dashboard project designed to visualize and analyze key financial metrics such as sales, profit, discounts, and units sold, supporting business decision-making across countries, segments, and products.
 
 ## Key Components and Insights
 KPI Section:
-** Total Gross Sales ($127.93M), Total Discounts ($16.9M), Total Units Sold (1.13M) are presented in a clear, easy-to-read format, establishing immediate visibility for headline metrics.
-** These KPIs are essential benchmarks for tracking revenue, incentives provided, and overall sales volume in the analysis period.
+* Total Gross Sales ($127.93M), Total Discounts ($16.9M), Total Units Sold (1.13M) are presented in a clear, easy-to-read format, establishing immediate visibility for headline metrics.
+* These KPIs are essential benchmarks for tracking revenue, incentives provided, and overall sales volume in the analysis period.
 
 ## Interactivity
 Country and Segment Filters: Located at the top left, these controls empower users to dynamically drill down by geography (e.g., Canada, France, Germany, Mexico, US) and segment (Channel Partners, Enterprise, Government, Midmarket, Small Business).
@@ -18,7 +18,7 @@ This interactivity supports focused analysis, allowing exploration of specific m
 1. Sales and Profit by Country (Bar Chart)
 * Provides a clear comparison of sales across key countries.
 
-** Assists management in identifying strong and weak performing regions, guiding resource allocation or strategy refinement.
+* Assists management in identifying strong and weak performing regions, guiding resource allocation or strategy refinement.
 
 2. Sales and Profit Trends by Year and Month (Line Chart)
 * Shows monthly and annual performance for each segment.
