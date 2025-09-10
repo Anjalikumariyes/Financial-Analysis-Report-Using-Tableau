@@ -17,27 +17,22 @@ This interactivity supports focused analysis, allowing exploration of specific m
 ## Visual Analyses
 1. Sales and Profit by Country (Bar Chart)
 * Provides a clear comparison of sales across key countries.
-
 * Assists management in identifying strong and weak performing regions, guiding resource allocation or strategy refinement.
 
 2. Sales and Profit Trends by Year and Month (Line Chart)
 * Shows monthly and annual performance for each segment.
-
 * Visualizes seasonality, growth trends, and cyclical behavior, informing budgeting, forecasting, and campaign planning.
 
 3. Gross Sales vs Discounts (Scatter Plot)
 * Maps relationship between gross sales and clean discounts across segments.
-
 * Enables assessment of price incentive effectiveness, highlighting whether discounts are correlated with increased sales volumes.
 
 4. Sales by Product and Discount Band (Heat Map)
 * Cross-tabulates products against discount bands (High, Low, Medium, None) to show sales distribution.
-
 * Identifies top-performing products and optimal discount strategies, supporting product management and marketing decisions.
 
 ## Analytical Opportunity
 * Performance Drivers: The integration of KPIs, trend charts, and scatterplots allows for rapid identification of what drives sales and profit across countries, segments, and products.
-
 * Optimization Levers: The analysis around discounts and segment performance enables targeted intervention—such as adjusting discount tiers—to maximize profit and sales.
 
 ## Recommendations: 
