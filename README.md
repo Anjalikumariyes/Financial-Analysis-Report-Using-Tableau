@@ -1,4 +1,7 @@
-# Financial Analysis Report With Unified Mentor
+# Financial Analysis Report 
+ (Business Analyst Internship Project)
+ 
+### Executive Summary
 This project showcases a comprehensive overview of financial metrics, enabling stakeholders to quickly assess organizational health, analyze drivers of performance, and identify actionable insights across regions, segments, and products.
 
 ### Overview
